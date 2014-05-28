@@ -1,0 +1,4 @@
+name: OWHUsernameHistory
+description: "A plugin for tracking the history of players' usernames on your server"
+version: 0.1
+main: info.omgwtfhax.usernamehistory.BukkitPlugin
